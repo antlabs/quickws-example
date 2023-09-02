@@ -1,5 +1,5 @@
-github.com/antlabs/quickws v0.1.4 h1:gWJpRTIIeIWfqJMu4Q0Ow00CUJF8RlHDDL/wHiS0LwM=
-github.com/antlabs/quickws v0.1.4/go.mod h1:Z0cSsS7294etkNnhPYEbTx54Kwe7TXfpojX/36OzGrU=
+github.com/antlabs/quickws v0.1.5 h1:vTR2/fEBlbVqmOThZ/SJOHqiSd0+TD+zfHJTaAgsaXg=
+github.com/antlabs/quickws v0.1.5/go.mod h1:Z0cSsS7294etkNnhPYEbTx54Kwe7TXfpojX/36OzGrU=
 github.com/antlabs/wsutil v0.1.2 h1:8H6E0eMJ2Wp0qi9YGDeyG3DlIfIZncw2NSScC5bYSBQ=
 github.com/antlabs/wsutil v0.1.2/go.mod h1:7ec5eUM7nmKW+Oi6F1I58iatOeL9k+yIsfOh1zh910g=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
