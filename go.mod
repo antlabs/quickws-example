@@ -3,7 +3,7 @@ module github.com/antlabs/quickws-example
 go 1.20
 
 require (
-	github.com/antlabs/quickws v0.1.5
+	github.com/antlabs/quickws v0.1.6
 	github.com/antlabs/wsutil v0.1.2
 	github.com/gin-gonic/gin v1.9.1
 )
