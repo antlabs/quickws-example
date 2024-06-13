@@ -2,7 +2,7 @@
 
 ```bash
 make       # build
-./dirwatch -d . # run
+./dirwatch.out -d . # run
 # 浏览器打开 http://127.0.0.1:8080
 ```
 

@@ -6,3 +6,4 @@ all:
 	go build -o with-html.server ./with-html/server/server.go
 	go build -o dirwatch.out ./dirwatch/dirwatch.go
 	go build -o command.out ./command/command.go
+	go build -o chatroom.out ./chatroom/chatroom.go
